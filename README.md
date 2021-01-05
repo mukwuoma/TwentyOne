@@ -1,5 +1,5 @@
 # Blackjack
-Blackjack game with some minor tweaks
+Blackjack game with some minor tweaks.
 In this blackjack version there is a dealer (person who shuffles and distribute cards) and only one player.  
 The objective of the game is for the player to beat the dealer by generating a hand of cards whose value is higher than the 
 dealer's hand without exceeding a total value of 21.  
